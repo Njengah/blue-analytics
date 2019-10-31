@@ -3,11 +3,11 @@
 /**
  * @wordpress-plugin
  * Plugin Name:       Blue Analytics
- * Plugin URI:        http://madebybluejay.com
+ * Plugin URI:        http://awesome-plugins.com/
  * Description:       Simple plugin to add Google Analytics code on your website. 
  * Version:           1.0.0
  * Author:            Bluejay
- * Author URI:        http://madebybluejay.com
+ * Author URI:        https://njengah.com
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       blue-analytics
